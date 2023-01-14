@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [](https://paulcostin.github.io/advice-generator-app/)
+- Live Site URL: [See the live site](https://paulcostin.github.io/advice-generator-app/)
 
 ## My process
 
